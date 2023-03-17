@@ -1,0 +1,52 @@
+body {
+    background-color: #36151e;
+    color: 394F49;
+    font-family: 'Raleway';
+    font-size: 16px;
+    font-weight: regular;
+}
+
+h1 {
+    font-family: 'Raleway';
+    font-size: 32px;
+    font-weight: 600;
+    color: 957FEF;
+}
+
+h2{
+    font-family: 'Raleway';
+    font-size: 22px;
+    font-weight: 600;
+    color: B36A5E;
+}
+
+#introduction {
+    margin-bottom: 40px;
+}
+
+.btn-blue {
+    text-decoration: none;
+    background-color: B36A5E;
+}
+a {
+    text-decoration: none;
+    background-color: rgb(82, 100, 139);
+    color: white;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+
+img {
+    border-radius: 65%; 
+    height: 200;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 20px rgb(255, 247, 219, 0.1);
+    border-radius: 5px;
+    padding: 40px;
+    margin: 20px auto;
+    width: 700px;
+    text-align: center;
+}
